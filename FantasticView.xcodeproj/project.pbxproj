@@ -12,6 +12,7 @@
 		4C0B19CD1E2F622A0061D72F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C0B19CB1E2F622A0061D72F /* Main.storyboard */; };
 		4C0B19CF1E2F622A0061D72F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C0B19CE1E2F622A0061D72F /* Assets.xcassets */; };
 		4C0B19D21E2F622A0061D72F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C0B19D01E2F622A0061D72F /* LaunchScreen.storyboard */; };
+		4C0B19DC1E2F627C0061D72F /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0B19DB1E2F627C0061D72F /* FantasticView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4C0B19CE1E2F622A0061D72F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C0B19D11E2F622A0061D72F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C0B19D31E2F622A0061D72F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C0B19DB1E2F627C0061D72F /* FantasticView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FantasticView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				4C0B19C71E2F622A0061D72F /* AppDelegate.swift */,
 				4C0B19C91E2F622A0061D72F /* ViewController.swift */,
+				4C0B19DB1E2F627C0061D72F /* FantasticView.swift */,
 				4C0B19CB1E2F622A0061D72F /* Main.storyboard */,
 				4C0B19CE1E2F622A0061D72F /* Assets.xcassets */,
 				4C0B19D01E2F622A0061D72F /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				4C0B19CA1E2F622A0061D72F /* ViewController.swift in Sources */,
 				4C0B19C81E2F622A0061D72F /* AppDelegate.swift in Sources */,
+				4C0B19DC1E2F627C0061D72F /* FantasticView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
